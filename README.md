@@ -1,7 +1,5 @@
 # 🔍 The Audit — FlamAI AI Team Intern Assignment
 
-> — Assignment brief
-
 **Author:** Ritam Pal  
 **Desmos:** [Tokenizer Fertility Visualization](https://www.desmos.com/calculator/chdjtmw3n2)
 
