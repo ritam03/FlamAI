@@ -1,6 +1,5 @@
 # 🔍 The Audit — FlamAI AI Team Intern Assignment
 
-> *"A sharp 6-hour submission beats a bloated 20-hour one."*
 > — Assignment brief
 
 **Author:** Ritam Pal  
